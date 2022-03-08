@@ -3,3 +3,11 @@
 ################################################################################
 
 /StandardLogMessageFormatter/bin/Debug
+/StandardLogMessageFormatter/obj
+/FullframeworkConsoleUnder48/bin/Debug
+/FullframeworkConsoleUnder48/obj/Debug
+/.vs/TestReferenceStandard/v16/.suo
+/ConsoleApp3/obj/Debug/ConsoleApp3.csprojAssemblyReference.cache
+/ConsoleApp3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ConsoleApp3/obj/Debug/FullFramworkConsole.csproj.FileListAbsolute.txt
+/ConsoleApp3/obj/Debug/FullFramworkConsole.csprojAssemblyReference.cache
